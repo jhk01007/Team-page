@@ -1,0 +1,131 @@
+.content-sections-v-17,
+.content-sections-v-17 * {
+  box-sizing: border-box;
+}
+.content-sections-v-17 {
+  background: #ffffff;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.wrapper {
+  position: absolute;
+  inset: 0;
+}
+.container {
+  background: var(--neutral-colors-white, #ffffff);
+  width: 1440px;
+  height: 800px;
+  position: absolute;
+  left: -1px;
+  top: 0px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 32.39999771118164px;
+  line-height: 41.4px;
+  font-weight: 700;
+  position: absolute;
+  left: 103px;
+  top: 510px;
+}
+.profile {
+  width: 400px;
+  height: 438.31px;
+  position: absolute;
+  left: 918px;
+  top: 181px;
+  object-fit: cover;
+}
+.skill1 {
+  position: absolute;
+  width: 60px;
+  left: 110px;
+  top: 570px;
+  object-fit: cover;
+}
+.skill2 {
+  position: absolute;
+  width: 60px;
+  left: 240px;
+  top: 570px;
+  object-fit: cover;
+}
+.group-39742 {
+  position: absolute;
+  inset: 0;
+}
+.group-39741 {
+  width: 359px;
+  height: 199px;
+  position: static;
+}
+.name {
+  color: #025786;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 90px;
+  line-height: 77.62px;
+  font-weight: 700;
+  position: absolute;
+  left: 103px;
+  top: 120px;
+  width: 300px;
+}
+.role {
+  color: #000000;
+  text-align: left;
+  font-family: var(--headings-h2-font-family, "DmSans-Bold", sans-serif);
+  font-size: var(--headings-h2-font-size, 36px);
+  line-height: var(--headings-h2-line-height, 46px);
+  font-weight: var(--headings-h2-font-weight, 700);
+  position: absolute;
+  left: 103px;
+  top: 220px;
+}
+.intro{
+  color: #550303;
+  text-align: left;
+  white-space: pre;
+  font-family: var(--headings-h2-font-family, "DmSans-Bold", sans-serif);
+  font-size: var(--headings-h2-font-size, 25px);
+  line-height: var(--headings-h2-line-height, 46px);
+  font-weight: var(--headings-h2-font-weight, 700);
+  font-style: italic;
+  position: absolute;
+  left: 103px;
+  top: 395px;
+}
+.email-icon {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 103px;
+  top: 310px;
+  object-fit: cover;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 25.919998168945312px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 161px;
+  top: 313px;
+}
+.github-icon {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 390px;
+  top: 133px;
+  object-fit: cover;
+}
+
+.github-icon:hover {
+  filter: brightness(0.87);
+}
