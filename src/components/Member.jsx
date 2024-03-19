@@ -7,7 +7,6 @@ function Member(props) {
     const [member, setMember] = useState(
         location.state?.member
       );
-      console.log(member.skills[1]);
     return (
 
         <div className="content-sections-v-17">

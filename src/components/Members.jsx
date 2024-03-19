@@ -1,16 +1,6 @@
 import React from "react";
 import OverflowWrapper from 'react-overflow-wrapper';
 import { useNavigate } from 'react-router-dom';
-/**
- * 이름
-깃허브 링크
-역할
-이메일
-기술스택
-사진
-
- */
-
 
 
 
