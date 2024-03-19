@@ -1,6 +1,5 @@
 import React from "react";
 import OverflowWrapper from 'react-overflow-wrapper';
-import Member from "./Member";
 import { useNavigate } from 'react-router-dom';
 /**
  * 이름
