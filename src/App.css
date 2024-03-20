@@ -84,6 +84,15 @@
 	border-radius: 50%;
 }
 
+.team-all-img {
+	width: 550px;
+	height: 550px;
+	border-radius: 10%;
+}
+
+.team-slogun {
+	width: 600px;
+}
 
 
 .git {
@@ -129,7 +138,7 @@
 	font-weight: bold;
 }
 .team-section {
-	padding-top: 170px;
+	padding-top: 120px;
 	align-items: center;
 	display: flex;
 	margin-left: 130px;
